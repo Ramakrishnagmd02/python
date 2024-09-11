@@ -10,3 +10,5 @@ for i in input:
         new += i 
 print(new)
 # one line is added here 
+
+# new line is added 
