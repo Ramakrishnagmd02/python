@@ -21,3 +21,4 @@ new = name.strip()
 #middle = name.remove(" ") only list has remove method
 print(new)
 print(middle)
+#new line added
