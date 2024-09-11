@@ -9,3 +9,4 @@ for i in input:
     else:
         new += i 
 print(new)
+# one line is added here 
